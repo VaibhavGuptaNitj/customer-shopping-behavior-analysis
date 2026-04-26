@@ -12,7 +12,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ---
 
-## 🚀 Key Insights (What matters most)
+## 🚀 Key Insights
 - 💰 Identified high-revenue customer segments driving majority of sales  
 - 🎯 Found that subscribers show stronger repeat purchase behavior  
 - 🛍️ Discovered top-performing products and categories  
