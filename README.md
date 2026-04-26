@@ -1,90 +1,103 @@
 # 🛍️ Customer Shopping Behavior Analysis
 
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
-
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
-
-✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
-
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
-
-✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+## 🚀 Project Highlights
+- End-to-end Data Analytics project using **Python, SQL, and Power BI**
+- Analyzed **3,900+ transactions with 18 features**
+- Identified **key customer segments driving revenue**
+- Built an **interactive dashboard for business insights**
 
 ---
 
-## 🚀 Key Insights
-- 💰 Identified high-revenue customer segments driving majority of sales  
-- 🎯 Found that subscribers show stronger repeat purchase behavior  
-- 🛍️ Discovered top-performing products and categories  
-- 🏷️ Analyzed impact of discounts on spending patterns  
-- 🚚 Observed higher spending in express shipping users  
+## 📌 Problem Statement
+Businesses often struggle to understand customer purchasing behavior, identify high-value customers, and evaluate the impact of discounts and shipping on sales.
 
-📁 Dataset Records: ~3,900 transactions  
-📊 Features: 18 columns  
+This project analyzes transactional data to uncover actionable insights that support better business decisions.
 
 ---
 
-## 📂 Includes
-- Customer demographics (Age, Gender, Location)  
-- Purchase details (Product, Category, Amount, Season)  
-- Behavioral data (Frequency, Discounts, Ratings, Shipping Type)  
+## 📊 Dataset
+- 📁 ~3,900 records  
+- 📊 18 features  
+- Includes:
+  - Customer demographics (Age, Gender, Location)  
+  - Purchase details (Product, Category, Amount, Season)  
+  - Behavioral data (Frequency, Discounts, Ratings, Shipping Type)  
 
 ---
 
-## 🛠️ Tools & Technologies
-- Python (Pandas)  
-- SQL (MySQL)  
-- Power BI (Dashboard & Visualization)  
-- Jupyter Notebook  
+## 🛠️ Tech Stack
+- **Python** (Pandas)  
+- **SQL** (Data querying and analysis)  
+- **Power BI** (Dashboard and visualization)  
 
 ---
 
 ## ⚙️ Project Workflow
 
 ### 1️⃣ Data Cleaning & Preparation
-- Handled missing values using imputation  
-- Standardized column names  
-- Removed redundant features  
+- Handled missing values  
+- Standardized data formats  
+- Removed inconsistencies  
 - Created new features (age groups, purchase frequency)  
 
 ### 2️⃣ Exploratory Data Analysis (EDA)
 - Analyzed customer demographics  
-- Studied purchase trends across categories  
+- Studied category-wise sales trends  
 - Evaluated impact of discounts and ratings  
 
 ### 3️⃣ SQL Analysis
-Performed business-driven queries:
-- Revenue analysis by gender  
-- High-value customers using discounts  
-- Top-rated and best-selling products  
-- Customer segmentation (New, Returning, Loyal)  
+- Revenue analysis by customer segments  
+- Identification of high-value customers  
+- Product and category performance  
 - Subscription vs non-subscription behavior  
 
 ---
 
-## 📊 Dashboard
-The Power BI dashboard provides:
-- Revenue trends and breakdowns  
-- Customer segmentation insights  
-- Product category performance  
-- Interactive filters for dynamic analysis  
+## 📊 Dashboard Preview
+
 
 ---
 
-## 📈 Results
-- Identified key customer segments contributing to revenue  
-- Highlighted products driving the most sales and engagement  
-- Revealed behavioral patterns in discounts and purchasing  
-- Suggested opportunities for:
-  - Improving customer loyalty  
-  - Optimizing discount strategies  
-  - Increasing subscription adoption  
+## 📈 Key Insights
+- 💰 Top customer segments contribute a major share of revenue  
+- 🔁 Subscribers show higher repeat purchase behavior  
+- 🚚 Express shipping users have higher average order value  
+- 🏷️ Discounts influence purchasing patterns  
+- ⭐ High-rated products perform more consistently  
+
+---
+
+## 📁 Project Structure
+
+customer-shopping-behavior-analysis/
+│── data/
+│── notebooks/
+│── sql/
+│── dashboard/
+
+
+---
+
+## ▶️ How to Run
+1. Open the Jupyter Notebook for data analysis  
+2. Execute SQL queries for insights  
+3. View the Power BI dashboard for visualization  
+
+---
+
+## 🚀 Business Impact
+- Identified high-value customer segments  
+- Highlighted top-performing products and categories  
+- Provided insights to:
+  - Improve customer retention  
+  - Optimize discount strategies  
+  - Increase revenue opportunities  
 
 ---
 
 ## 🎯 Skills Demonstrated
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
-- SQL for Business Insights  
+- SQL for business insights  
 - Data Visualization (Power BI)  
-- Analytical Thinking & Storytelling  
+- Analytical thinking and storytelling  
