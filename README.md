@@ -28,8 +28,8 @@ It demonstrates a complete data analytics workflow:
 ---
 
 ## 🛠️ Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- SQL (PostgreSQL / MySQL / SQL Server)  
+- Python (Pandas)  
+- SQL (MySQL)  
 - Power BI (Dashboard & Visualization)  
 - Jupyter Notebook  
 
