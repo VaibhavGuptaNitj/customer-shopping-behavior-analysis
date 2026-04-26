@@ -1,4 +1,5 @@
 📊 Customer Shopping Behavior Analysis
+
 🔍 Overview
 
 This project analyzes customer shopping behavior using transactional data to uncover insights into spending patterns, customer segments, and product performance.
